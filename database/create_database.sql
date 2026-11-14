@@ -6,7 +6,7 @@
 -- IMPORTANTE: reemplazar CAMBIAR_POR_CLAVE_SEGURA antes de ejecutar
 -- =====================================================
 
-CREATE USER usuario_app WITH PASSWORD 'CAMBIAR_POR_CLAVE_SEGURA';
+CREATE USER usuario_app WITH PASSWORD 'losalmendros123';
 
 CREATE DATABASE colegio_almendros
     OWNER usuario_app
